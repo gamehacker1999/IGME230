@@ -16,8 +16,10 @@ hooked to their screens. The primary objective for the player is to control the 
 using his firearm.
 
 ## V. Esthetics
-Graphics - The graphics of the game will be cartoonish, using simple drawings or 8-Bit art.
-Sound - The game will use simple 8 Bit sounds for its sound effects. The types of sound that the game will include are, a background score, 
+### Graphics 
+The graphics of the game will be cartoonish, using simple drawings or 8-Bit art.
+### Sound 
+The game will use simple 8 Bit sounds for its sound effects. The types of sound that the game will include are, a background score, 
 a sound for shooting the firearm, and a sound for colliding with the enemies.
 
 ## VI. Gameplay
